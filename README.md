@@ -1,6 +1,7 @@
 # campus-workshops-knowledge-base
 
-Knowledge Base for Campus Workshops
+Knowledge Base for Campus Workshops in Reva University, Section 'E', SRN:  
+R19CS461
 
 # What we'll be doing today?
 
